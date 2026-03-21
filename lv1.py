@@ -1,4 +1,4 @@
-flag = "Pay1oad{I_think_you_know_git_diff!}"
+flag = "DELETED"
 
 user_input = input("Can you find a flag? > ")
 
